@@ -1,0 +1,3 @@
+﻿  readtxt2.cpp
+e:\course\wocode\101259354readtxtfile\trackmatching1\trackmatching1\readtxt2.cpp(53): warning C4172: 返回局部变量或临时变量的地址: a
+  TrackMatching1.vcxproj -> E:\Course\WoCode\101259354ReadtxtFile\TrackMatching1\Debug\TrackMatching1.exe

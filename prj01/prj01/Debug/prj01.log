@@ -1,0 +1,3 @@
+﻿  main01.cpp
+e:\course\wocode\prj01\prj01\main01.cpp(81): warning C4715: “Find”: 不是所有的控件路径都返回值
+  prj01.vcxproj -> E:\Course\WoCode\prj01\Debug\prj01.exe
